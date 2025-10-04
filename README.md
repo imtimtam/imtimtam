@@ -10,7 +10,13 @@ I’m a **UCI graduate with a B.S. in Biology**, an A.S. in Computer Science and
 Here are some of the projects I’ve been working on:
 
 - ⚕️ **[Drug Library Frontend](https://github.com/imtimtam/ddi-web)**  
-  A clean React + Vite frontend for exploring drug interactions and targets. Designed with **components**, **BEM**, **CSS variables**, and **responsive layouts**. Works with the API found below. 
+  A clean React + Vite frontend for exploring drug interactions and targets. Designed with **components**, **BEM**, **CSS variables**, and **responsive layouts**. Works with the API found below.
+
+  <p align="center">
+    <img src="./project-previews/ddi-web-preview.png" alt="DDI Frontend" />
+    <br>
+    <em>View potential interactions and reported adverse events instantly.</em>
+  </p>
 
 - 💊 **[Drug Interaction API](https://github.com/imtimtam/ddi-api)**  
   A Python backend API that integrates real datasets (nSIDES TWOSIDES + IUPHAR Guide to Pharmacology) to check drug-drug interactions and shared targets.  
