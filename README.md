@@ -9,7 +9,7 @@ I’m a **UCI graduate with a B.S. in Biology**, an A.S. in Computer Science and
 
 Here are some of the projects I’ve been working on:
 
-- ⚕️ **[Drug Library Frontend](https://github.com/imtimtam/drug-library-website)**  
+- ⚕️ **[Drug Library Frontend](https://github.com/imtimtam/ddi-web)**  
   A clean React + Vite frontend for exploring drug interactions and targets. Designed with **BEM**, **CSS variables**, and **responsive layouts**.  
 
 - 💊 **[Drug Interaction API](https://github.com/imtimtam/ddi-api)**  
