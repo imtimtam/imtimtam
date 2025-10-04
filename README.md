@@ -13,7 +13,7 @@ Here are some of the projects I’ve been working on:
   A clean React + Vite frontend for exploring drug interactions and targets. Designed with **components**, **BEM**, **CSS variables**, and **responsive layouts**. Works with the API found below.
 
   <p align="center">
-    <img src="./project-previews/ddi-web-preview.png" alt="DDI Frontend" width="500" height="500"/>
+    <img src="./project-previews/ddi-web-preview.png" alt="DDI Frontend"/>
     <br>
     <em>View potential interactions and reported adverse events instantly.</em>
   </p>
