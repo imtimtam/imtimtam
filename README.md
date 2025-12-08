@@ -1,7 +1,7 @@
 # Timothy Tam
 ## About me
 
-I’m a **UCI graduate with a B.S. in Biology**, an A.S. in Computer Science and some experience in Psychiatric research trying to **pivot as a software developer** with a growing passion for technology with a desire to solve problems and learn new things.
+I’m a UCI graduate with a B.S. in Biology, an A.S. in Computer Science and some experience in Psychiatric research trying to **pivot as a software developer** with a growing passion for technology with a desire to solve problems and learn new things.
 
 ---
 
