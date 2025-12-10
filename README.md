@@ -29,8 +29,9 @@ I’m a UCI graduate with a B.S. in Biology, an A.S. in Computer Science and som
 
 ## Tech Stack
 
-- **Languages**: Python, Java, JavaScript, C++, HTML5, CSS3, SQL
-- **Tools**: Git, GitHub, MySQL, VSCode, Visual Studio, FastAPI, Pandas
+- **Languages**: Python, Java, JavaScript/TypeScript, C++, HTML5, CSS3, SQL
+- **Frameworks & Libraries**: React, FastAPI, Pandas, SQLAlchemy
+- **Tools & Services**: VSCode, Git, GitHub, MySQL, PostgreSQL, Excel, PowerBI
 
 ---
 
