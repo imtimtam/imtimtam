@@ -16,6 +16,9 @@ I’m a UCI graduate with a B.S. in Biology, an A.S. in Computer Science and som
     <em>View potential interactions and reported adverse events instantly.</em>
   </p>
 
+- 💵 **[CMS Open Payment ETL](https://github.com/imtimtam/kolink-payments-etl)**
+- A file-based ETL for ingesting, cleaning and unifying CMS Open Payments for General and Research yearly payments. Built with Python, Pandas, and simple file-based workflows during an internship dedicated towards an MVP about linking key opinion leaders.
+
 - 💊 **[Drug Interaction API](https://github.com/imtimtam/ddi-api)**  
   A Python backend API that integrates real datasets (nSIDES TWOSIDES + IUPHAR Guide to Pharmacology) to check drug-drug interactions and shared targets.  
 
