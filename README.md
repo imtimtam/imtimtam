@@ -7,6 +7,15 @@ I’m a UCI graduate with a B.S. in Biology, an A.S. in Computer Science and som
 
 ## Projects
 
+- 🏥 **[CA COVID-19 Analysis](https://github.com/imtimtam/covid_ca_county_analysis)**  
+  An analysis of COVID-19 outcomes and risk factors across California counties in 2020. It combines SQL queries, Excel pivot tables, and a Power BI dashboard to explore cases, deaths, and sociodemographic and healthcare risk factors.
+
+  <p align="center">
+    <img src="./project-previews/ca_covid_bi_ss.png" alt="COVID-19 Dashboard"/>
+    <br>
+    <em>An interactive analysis overview generated in Power BI.</em>
+  </p>
+
 - ⚕️ **[Drug Library Frontend](https://github.com/imtimtam/ddi-web)**  
   A clean React + Vite frontend for exploring drug interactions and targets. Designed with **components**, **BEM**, **CSS variables**, and **responsive layouts**. Works with the API found below.
 
