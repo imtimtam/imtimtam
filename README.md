@@ -1,7 +1,9 @@
 # Timothy Tam
 ## About me
 
-I’m a UCI graduate with a B.S. in Biology, an A.S. in Computer Science and some experience in Psychiatric research trying to pivot as a data analyst/engineer with a growing passion for technology with a desire to solve problems and learn new things.
+Data analyst and data engineer with a background in biology, psychiatric research, and computer science — UCI-trained and self-driven. Passionate about transforming healthcare and any operational data into actionable insights through SQL, Python, Power BI, and ETL workflows.
+
+My projects span across healthcare analytics dashboards, CMS Open Payments ETL pipelines, and COVID-19 risk analysis using real and synthetic datasets. Interested in roles where data engineering, analytics, and backend systems intersect to drive better decisions.
 
 ## Projects
 
@@ -41,15 +43,11 @@ I’m a UCI graduate with a B.S. in Biology, an A.S. in Computer Science and som
 - 🎲 **[Gacha Simulator](https://github.com/imtimtam/gacha-simulator)**  
   A probability-based gacha pull simulator built in Python with OOP design principles.  
 
----
-
 ## Tech Stack
 
 - **Languages**: Python, Java, JavaScript/TypeScript, C++, HTML5, CSS3, SQL
 - **Frameworks & Libraries**: React, FastAPI, Pandas, SQLAlchemy
 - **Tools & Services**: VSCode, Git, GitHub, MySQL, PostgreSQL, Excel, PowerBI
-
----
 
 ## Connect with Me
 
