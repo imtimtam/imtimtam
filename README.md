@@ -12,9 +12,9 @@ My projects span across healthcare analytics dashboards, CMS Open Payments ETL p
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-- **Languages**: Python, Java, JavaScript/TypeScript, C++, HTML5, CSS3, SQL
-- **Frameworks & Libraries**: React, FastAPI, Pandas, SQLAlchemy
-- **Tools & Services**: VSCode, Git, GitHub, MySQL, PostgreSQL, Excel, PowerBI
+- **Languages**: SQL, Python, Java, JavaScript/TypeScript, C++, HTML, CSS, JSON
+- **Frameworks & Libraries**: Pandas, SQLAlchemy, scikit-learn, Matplotlib, FastAPI, REST APIs, React
+- **Tools & Services**: PostgreSQL, BigQuery, Power BI, DAX, Excel, Git, GitHub
 
 ## Projects
 - 🏥 **[Orthopedic Healthcare Performance Dashboard](https://github.com/imtimtam/ortho-dashboard)**  
